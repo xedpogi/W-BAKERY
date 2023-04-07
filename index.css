@@ -1,0 +1,98 @@
+h1{
+	text-transform: uppercase;
+	text-align: center;
+	margin-bottom: 0;
+}
+
+h3{
+	color: White;
+	margin-top: 0;
+}
+.well-spaced{
+	 letter-spacing: 0.2em;
+}
+.subtitle{
+	word-spacing: 0.2em;
+	letter-spacing: 0.1em;
+}
+.kye{
+	width: 45%;
+	margin: 5px;
+	border: 3px solid black;
+	padding-left: 5px;
+	
+}
+
+
+.blockquote{
+	text-align:justify;
+}
+.credits{
+	text-align:right;
+	font-style: italic;
+}
+
+.tothe-right{
+	text-indent:2em;
+}
+.tothe-left{
+	text-indent: -2em;
+}
+.solved-indent{
+	text-indent: -2em;
+	margin-left: 2em;
+}
+div{
+	width:45%;
+	margin: 5px;
+	border: 2px solid white;
+	padding: 0.5px;
+}
+
+.box{
+	width: 45%;
+	margin: 5px;
+	border: 3px solid black;
+	padding-left: 5px;
+
+}
+
+.large-leading{ line-height: 1.5em;}
+.normal-leading{line-height: normal;}
+.short-leading{line-height: 0.8em;}
+
+.eo{
+	width:45%;
+	margin:5px;
+	border: 3px solid black;
+	padding: 5px;
+
+}
+#xed{
+	width:990px;
+	margin: 0 auto;
+	background-color: #36B1CB;
+}
+#hi{
+	width:990px;
+	margin: 0 auto;
+	background-color:#00809A;
+}
+#dark{
+	width:990px;
+	margin: 0 auto;
+	background-color:#378AC3;
+}
+#hrs{
+	width:990px;
+	margin: 0 auto;
+	background-color:  #25CBEE ;
+	
+}
+body{
+	background-image:url(EXAMPLE.jpg);
+		color:black;
+		background-repeat: no-repeat;
+		background-attachment: fixed;
+		background-size: cover;
+}
